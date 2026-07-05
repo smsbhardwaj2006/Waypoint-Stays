@@ -1,2 +1,2 @@
 # Waypoint Stays
-Hotel Search Playground
+Hotel Search API Playground
